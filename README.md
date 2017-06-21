@@ -26,4 +26,16 @@ THE CODE WILL START
 
 The final output in LTTextLine or LTTextBox format for WHandbook.pdf will be in convertedFile.txt 
 
+# For running extract.py (Data Conversion)
 
+Run this after running pdfmine.py
+
+Open Command Prompt
+
+cd to the loaction of code and convertedFile.txt file
+
+type "python extract.py"
+
+THE CODE WILL START
+
+The final output dictionary will be printed and stored as JSON Format in saerch.txt 
