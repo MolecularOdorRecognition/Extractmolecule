@@ -1,0 +1,569 @@
+'W
+'
+
+'WALNUT
+'
+
+'Botanical name: Juglans regia L  and other Juglans species
+Botanical family: Juglandaceae
+Foreign names: Noyer commun (Fr ), Walnuss (Ger ), Nogal (Sp ), Noce (It )
+Description: Majestic tree up to 30 m (98 ft) in height, branched, with large, alternate pinnatifid leaves and staminiferous and 
+pistilliferous flowers (April to June)  The fruits have a fibrous mesocarp, woody endocarp and fleshy, oily seeds edible when ripe 
+(September)  The parts used are the leaves, husks and edible seeds  Walnut has a bitter-tonic flavor and a warm, sweet odor 
+Derivatives: The derivatives from leaves are decoction (5%), fluid extract, tincture (20% in 20% ethanol) and soft aqueous extract  
+The derivatives from husks are fluid extract and petroleum ether fluid extract
+Consumption: Annual: n/a 
+Regulatory Status:
+CoE: n/a
+FDA: 21 CFR 164 110, 172 510
+FDA (other): HOC (1992)
+JECFA: n/a
+Trade association guidelines: FEMA PADI: n/a 
+IOFI: n/a
+Composition: The total oil content of walnut ranged from 62 6 to 70 3%, while the crude protein ranged from 13 6 to 18 1%  Dietary 
+fiber ranged from 4 2 to 5 2%, while the starch content made up no more than 2 8% of the remaining portion of the kernel  The amino 
+acid content of the walnuts was similar between cultivars and the patterns of essential amino acids were characteristic of a high qual-
+ity protein * The immature fruit is one of the richest sources of ascorbic acid  The leaves, also rich in ascorbic acid (almost 1% of the 
+weight), are rich in carotene (ca  0 3% wet weight)  Juglone is the active compound in the leaves; also quercetin, cyanadin, kaempferol, 
+caffeic acid and traces of p-coumaric acid, hyperin (0 2%), quercitrin, kaempferol-3-arabinoside, quercetin-3-arabinoside  The seed 
+oil contains 3 to 7% palmitic, 0 5 to 3% stearic, 9 to 30% oleic, 57 to 76% linoleic and 2 to 16% linolenic acids 
+Aroma threshold values: n/a
+Taste threshold values: n/a
+'
+
+'Individual: n/a
+'
+
+'WALNUT HULL EXTRACT
+'
+
+'FL No :
+EINECS No :
+'
+
+'n/a
+n/a
+'
+
+'CAS No :
+n/a
+CoE No :
+n/a
+Description: See Walnut 
+Consumption: Annual: 5433 33 lb 
+Regulatory Status:
+CoE: n/a
+FDA: 21 CFR 172 510
+FDA (other): See Walnut 
+JECFA: n/a
+Trade association guidelines: FEMA PADI: 30 020 mg 
+Reported uses (ppm): (FEMA, 1994)
+Food Category
+Alcoholic beverages
+Baked goods
+Breakfast cereals
+Frozen dairy
+'
+
+'Usual
+80 91
+72 79
+346 40
+73 72
+'
+
+'Max 
+80 91
+94 20
+346 40
+96 13
+'
+
+'* Savage  (2001)  Plant Foods Hum  Nutr  56, 75 
+'
+
+'© 2010 by Taylor and Francis Group, LLC
+'
+
+'FEMA No :
+JECFA No :
+'
+
+'3111
+n/a
+'
+
+'NAS No :
+EAFUS No :
+'
+
+'3111
+977014-38-2
+'
+
+'Individual: 0 004604 mg/kg/day
+'
+
+'IOFI: Natural
+'
+
+'Food Category
+Gelatins, puddings
+Nonalcoholic beverages
+Soft candy
+'
+
+'Usual
+170 50
+45 38
+67 36
+'
+
+'Max 
+189 50
+65 21
+88 29
+'
+
+'2017
+'
+
+'2018 
+'
+
+'Aroma threshold values: n/a
+Taste threshold values: n/a
+'
+
+'WALNUT LEAVES EXTRACT
+'
+
+'WALNUT LEAVES EXTRACT
+'
+
+'CAS No :
+n/a
+FL No :
+n/a
+FEMA No :
+n/a
+NAS No :
+6168
+CoE No :
+n/a
+EINECS No :
+n/a
+JECFA No :
+n/a
+EAFUS No :
+977091-98-7
+Description: The essential oil is obtained by steam distillation of leaves with yields ranging between 0 012 and 0 029%; it is little 
+known and seldom used  The oil is a yellow to greenish-brown liquid exhibiting a powerful, warm, sweet odor reminiscent of tea and 
+labdanum 
+Consumption: Annual: 366 67 lb 
+Regulatory Status:
+CoE: n/a
+FDA: 21 CFR 172 510
+FDA (other): n/a
+JECFA: n/a
+Trade association guidelines: FEMA PADI: n/a 
+IOFI: Natural
+Composition: The main constituents of the leaf oil include juglone, α- and β-hydrojuglone, tannin, geraniol, cineol and methyl 
+eugenol 
+Aroma threshold values: n/a
+Taste threshold values: n/a
+'
+
+'Individual: 0 0003107 mg/kg/day
+'
+
+'WHORTLEBERRY
+'
+
+'Botanical name: Vaccinium myrtillus L 
+'
+
+'NAS No :
+'
+
+'n/a
+'
+
+'Botanical family: Ericaceae
+Other names: Arandano; Black Whortles; Bleaberry; Blueberry; British Bilberry; Hurtleberry; Hurts; Whinberry; Whortle-berry; 
+Vaccinium myrtillus
+Foreign names: Myrtille (Fr ), Heidelbeere, Blaubeere (Ger ), Arandano (Sp ), Mirtillo nero (It )
+CAS No :
+n/a
+FL No :
+n/a
+FEMA No :
+n/a
+CoE No :
+469
+EINECS No :
+n/a
+JECFA No :
+n/a
+Description: A European species of blueberry  The shrub is approximately 40 to 60 cm (16 to 24 in ) high and grows wild in the 
+mountain areas of Europe and Asia  The plant has erect, branched stems; long, creeping rhizomes; alternate oval leaves; white-
+pinkish flowers; and bluish, globose berries  This variety should not be confused with V  vitio idaea, leaves of which are used for 
+pharmaceutical purposes  The parts used are the berries and leaves  Whortleberry has a sweet, aromatic, sour, astringent flavor  
+Annual use in Europe is 13,000 kg  Fruits of other species, V  macrocarpon Ait  (cranberry) and V  uliginosum L  (Bog bilberry), are 
+consumed as a foodstuff 
+Derivatives: The derivatives from the berries are f1uid extract, tincture (20% in 20% alcohol), concentrated (six- to eightfold) juice  
+The derivatives from the leaves are infusion (3%), dried aqueous extract 
+Consumption: Annual: n/a 
+Regulatory Status:
+CoE: Fruits: Category 1 (no restriction on use)  Fruits are used in the preparation of jellies and marmalades, dairy products or 
+consumed as is  Derivatives are used for medical purposes  Leaves: Category 5 (additional toxicological and/or chemical infor-
+mation is required)  Leaves are used in beverages (3 g/L) 
+FDA: n/a
+FDA (other): HOC (1992)
+JECFA: n/a
+Trade association guidelines: FEMA PADI: n/a 
+IOFI: n/a
+Composition: Whortleberry fruit contains flavonoids (including quercitrin, rutin, myrtillin, isoquercitrin, anthocyan pigments), 
+ursolic acid, coumaric acid, tannins (7%), volatile alcohols, terpene hydrocarbons and carbonyl compounds (CoE, 2000)  The leaves 
+'
+
+'Individual: n/a
+'
+
+'© 2010 by Taylor and Francis Group, LLC
+'
+
+'WINTERGREEN EXTRACT
+'
+
+' 
+'
+
+'2019
+'
+
+'contain flavonoids (including quercetin, quercitrin, rutin, myrtillin, isoquercitrin, anthocyan pigments), vaccinin and neomyrtillin, 
+phenol glucosides, tannins, triterpenoids and alkaloids (CoE, 2000) 
+Aroma threshold values: n/a
+Taste threshold values: n/a
+'
+
+'WINTERGREEN
+'
+
+'Botanical name: Gaultheria procumbens L 
+'
+
+'Botanical family: Ericaceae
+Other names: Boxberry; Checkerberry; Deerberry; Mountain tea; Canada tea; Patridgeberry
+Foreign names: Gaultherie (Fr ), Wintergrün (Ger ), Gaulteria (Sp ), Gaulteria (It )
+Description: Wintergreen is an evergreen shrub with slender, creeping stems, assurgent, flowering branches with toothed leaves 
+clustered at the top, white, bell-shaped flowers blossoming July to August, followed by red berries (checkerberries)  The plant grows 
+extensively in the woods of Canada and the United States (Pennsylvania)  The leaves are harvested between June and September  
+Wintergreen has an aromatic odor and flavor similar to methyl salicylate 
+Derivatives: Infusion and alcohol extract 
+Consumption: Annual: n/a 
+Regulatory Status:
+CoE: n/a
+FDA: n/a
+FDA (other): HOC (1992)
+JECFA: n/a
+Trade association guidelines: FEMA PADI: n/a 
+IOFI: n/a
+Composition: The leaves of wintergreen are reported to contain arbutin, caffeic acid, ericolin, ferulic acid, gaultherase, gaultheric 
+acid, gaultherin, gentisinc acid, methyl salicylate (5445 to 7920 ppm) o-pyrocatachuic acid, p-coumaric acid, p-hydroxybenzoic acid, 
+primverose, protocatachuic acid, syringic acid, tannic acid, tannin, tricontane and vallininc acid 
+Aroma threshold values: n/a
+Taste threshold values: n/a
+'
+
+'Individual: n/a
+'
+
+'WINTERGREEN EXTRACT
+'
+
+'FL No :
+EINECS No :
+'
+
+'n/a
+289-888-0
+'
+
+'CAS No :
+90045-28-6
+CoE No :
+n/a
+Description: See Wintergreen 
+Consumption: Annual: <1 00 lb 
+Regulatory Status:
+CoE: n/a
+FDA: n/a
+FDA (other): See Wintergreen 
+JECFA: n/a
+Trade association guidelines: FEMA PADI: 764 025 mg 
+Reported uses (ppm): (FEMA, 1994)
+Food Category
+Alcoholic beverages
+Baked goods
+Frozen dairy
+Aroma threshold values: n/a
+Taste threshold values: n/a
+'
+
+'
+
+'Usual
+250 00
+5000 00
+450 00
+'
+
+'Max 
+275 00
+7500 00
+500 00
+'
+
+'© 2010 by Taylor and Francis Group, LLC
+'
+
+'FEMA No :
+JECFA No :
+'
+
+'3112
+n/a
+'
+
+'NAS No :
+EAFUS No :
+'
+
+'3112
+977092-74-2
+'
+
+'Individual: <1 00 mg/kg/day
+'
+
+'
+
+'IOFI: Natural
+'
+
+'Food Category
+Gelatins, puddings
+Nonalcoholic beverages
+Soft candy
+'
+
+'Usual
+450 00
+250 00
+4000 00
+'
+
+'Max 
+500 00
+275 00
+5000 00
+'
+
+'2020 
+'
+
+'WINTERGREEN OIL
+'
+
+'WINTERGREEN OIL
+'
+
+'NAS No :
+'
+
+'3113
+'
+
+'Individual: 0 002316 mg/kg/day
+'
+
+'IOFI: Natural
+'
+
+'Solubility in alcohol
+'
+
+'Passes test
+'
+
+'Other names: Gaultheria oil; Oils, wintergreen
+CAS No :
+68917-75-9
+FL No :
+n/a
+FEMA No :
+3113
+CoE No :
+n/a
+EINECS No :
+n/a
+JECFA No :
+n/a
+Description: Wintergreen essential oil is water steam-distilled from leaves charged into the still and allowed to macerate for several 
+hours to hydrolyze the gaultherin glucoside (methyl salicylate + glucose)  Distillation lasts from 5 to 6 hours and yields approximately 
+0 7% essential oil  The oil is often adulterated by intentionally co-distilling sweet birth (Betula lenta) bark  FCC (1996) has described 
+wintergreen oil as obtained from the leaves of G  procumbens and bark of B  lenta  The oil has a strong, sweet, aromatic odor remi-
+niscent of methyl salicylate, its main constituent 
+Consumption: Annual: 2733 33 lb 
+Regulatory Status:
+CoE: n/a
+FDA: n/a
+FDA (other): n/a
+JECFA: n/a
+Trade association guidelines: FEMA PADI: 42 238 mg 
+Specifications: (FCC, 1996)
+Acid value (max)
+1 0
+Slightly levorotatory, exhibiting a 
+rotation of not more than –1 5°
+Not less than 98% and not more than 
+100 5% methyl salicylate (C8H8O3)
+Heavy metals (as
+a0Pb)
+Passes test
+Physical–chemical characteristics: Wintergreen oil is a colorless, yellowish or reddish liquid  It boils with decomposition between 
+219 to 224°C  It is soluble in alcohol and in glacial acetic acid, and it is very slightly soluble in water 
+Essential oil composition: The oil contains approximately 98% methyl salicylate 
+Reported uses (ppm): (FEMA, 1994)
+Food Category
+Alcoholic beverages
+Baked goods
+Chewing gum
+Frozen dairy
+Aroma threshold values: n/a
+Taste threshold values: n/a
+'
+
+'Food Category
+Gelatins, puddings
+Hard candy
+Nonalcoholic beverages
+Soft candy
+'
+
+'Usual
+49 19
+249 80
+1550 00
+58 81
+'
+
+'Max 
+84 53
+307 10
+3006 00
+184 30
+'
+
+'Usual
+9 88
+584 80
+27 64
+193 90
+'
+
+'Refractive index
+'
+
+'Between 1 535 and 1 538 (20°C)
+'
+
+'Specific gravity
+'
+
+'Between 1 176 and 1 182 (25°C)
+'
+
+'Angular rotation
+'
+
+'Assay
+'
+
+'Max 
+19 25
+584 80
+108 20
+405 40
+'
+
+'WOODRUFF, SWEET
+'
+
+'Botanical name: Asperula odorata L ; Galium odoratum (L ) Scop 
+'
+
+'Botanical family: Rubiaceae
+Other names: Woodruff; Sweet woodruff: Master of the wood; Woodward; European woodruff
+Foreign names: Asperule odorante (Fr ), Waldmeister (Ger ), Asperula (Sp ), Asperula (It )
+CAS No :
+n/a
+FL No :
+n/a
+FEMA No :
+n/a
+NAS No :
+6364
+CoE No :
+n/a
+EINECS No :
+n/a
+JECFA No :
+n/a
+EAFUS No :
+977070-09-9
+Description: Woodruff sweet is a small, slightly sweet-scented perennial herb widespread throughout Europe and the Near East  It 
+has very thin creeping rhizomes, both fertile and sterile stalks, and spear-like oblong leaves arranged about the central axis of the 
+stalk (verticil) as spokes on a wheel  The verticils are spaced along the length of the stalk  The plant has terminal flowers (usually 
+three) with white petals and blooms from June to July  The dried herb is commercially available throughout Europe  The whole plant 
+is used  Sweet woodruff has a heavy, sweet, tobacco-like flavor and odor  The plant does not yield an essential oil upon steam distil-
+lation  While the fresh plant is nearly odorless, it exhibits a coumarin-like fragrance when dried 
+'
+
+'© 2010 by Taylor and Francis Group, LLC
+'
+
+'WOODRUFF, SWEET
+'
+
+' 
+'
+
+'2021
+'
+
+'Derivatives: Tincture (10% in 65% ethanol), infusion (5%); absolutes and concretes are rarely seen as articles of commerce 
+Consumption: Annual: 50 00 lb 
+Individual: 0 00004237 mg/kg/day
+Regulatory Status:
+CoE: n/a
+FDA: 21 CFR 172 510
+FDA (other): HOC (1992)
+JECFA: n/a
+Trade association guidelines: FEMA PADI: n/a 
+IOFI: Natural
+Composition: The agreeable odor of sweet woodruff is due to coumarin  The plant also contains citric, malic and rubichloric acids, 
+together with some tannic acid  Coumarin is present in glycosidic form, which is freed by the enzymatic action during the drying 
+process  The other minor components include asperuloside (0 05%) and monoterpein *
+Aroma threshold values: n/a
+Taste threshold values: n/a
+'
+
+'* Sticher  (1971)  Pharm  Acta Helv  46, 121 
+'
+
+'© 2010 by Taylor and Francis Group, LLC
+'
+
