@@ -30,6 +30,8 @@ The final output in LTTextLine or LTTextBox format for WHandbook.pdf will be in 
 
 Run this after running pdfmine.py
 
+# NOTE Manually replace . which space in the output file of pdfmine.py
+
 Open Command Prompt
 
 cd to the loaction of code and convertedFile.txt file
