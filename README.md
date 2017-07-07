@@ -38,5 +38,6 @@ type "python extract.py"
 
 THE CODE WILL START
 
-# newextract.py considers different kind of dividing between compounds
 The final output dictionary will be printed and stored as JSON Format in saerch.txt 
+
+# newextract.py considers different kind of dividing between compounds. For Better ouput cltr+H and replace all . with spaces
