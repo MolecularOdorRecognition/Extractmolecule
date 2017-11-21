@@ -1,3 +1,6 @@
+
+# Code for extarcting the data from the perfume book
+
 import json
 file = open('convertedFile.txt', 'r', encoding='utf-8')
 nfile = open('converted.txt', 'wb')
