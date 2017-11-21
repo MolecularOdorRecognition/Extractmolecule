@@ -1,3 +1,6 @@
+
+# New file for extarcting data
+
 import json
 file = open('convertedFile.txt', 'r', encoding='utf-8')
 nfile = open('converted.txt', 'wb')
